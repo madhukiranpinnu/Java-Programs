@@ -4,34 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39062f38-94f6-4061-9de0-3b56563b76e0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Java1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Java10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Java11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Java12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Java13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Java14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Java15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Java16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Java17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Java18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Java19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Java2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Java20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Java3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Java4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Java5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Java6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Java7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Java8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Java9.java" afterDir="false" />
+    <list default="true" id="39062f38-94f6-4061-9de0-3b56563b76e0" name="Changes" comment="32 programs">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Java33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Java34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Java35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Java36.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Java37.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Java38.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Java39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Java40.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Java41.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Java42.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Java43.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Java44.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,16 +52,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Java20">
-    <configuration name="Java16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Java16" />
+}</component>
+  <component name="RunManager" selected="Application.Java44">
+    <configuration name="Java40" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Java40" />
       <module name="Java150" />
       <extension name="coverage">
         <pattern>
@@ -87,8 +74,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Java17" />
+    <configuration name="Java41" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Java41" />
       <module name="Java150" />
       <extension name="coverage">
         <pattern>
@@ -100,8 +87,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Java18" />
+    <configuration name="Java42" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Java42" />
       <module name="Java150" />
       <extension name="coverage">
         <pattern>
@@ -113,8 +100,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Java19" />
+    <configuration name="Java43" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Java43" />
       <module name="Java150" />
       <extension name="coverage">
         <pattern>
@@ -126,8 +113,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Java20" />
+    <configuration name="Java44" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Java44" />
       <module name="Java150" />
       <extension name="coverage">
         <pattern>
@@ -141,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Java20" />
-        <item itemvalue="Application.Java19" />
-        <item itemvalue="Application.Java18" />
-        <item itemvalue="Application.Java17" />
-        <item itemvalue="Application.Java16" />
+        <item itemvalue="Application.Java44" />
+        <item itemvalue="Application.Java43" />
+        <item itemvalue="Application.Java42" />
+        <item itemvalue="Application.Java41" />
+        <item itemvalue="Application.Java40" />
       </list>
     </recent_temporary>
   </component>
@@ -158,6 +145,30 @@
       <option name="presentableId" value="Default" />
       <updated>1672658934768</updated>
     </task>
+    <task id="LOCAL-00001" summary="20 programs">
+      <created>1672732838135</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672732838135</updated>
+    </task>
+    <task id="LOCAL-00002" summary="32 programs">
+      <created>1672761832122</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672761832122</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="20 programs" />
+    <MESSAGE value="32 programs" />
+    <option name="LAST_COMMIT_MESSAGE" value="32 programs" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
