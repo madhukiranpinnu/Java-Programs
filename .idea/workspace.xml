@@ -4,11 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39062f38-94f6-4061-9de0-3b56563b76e0" name="Changes" comment="54 programs">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Java55.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Java56.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Java57.java" afterDir="false" />
+    <list default="true" id="39062f38-94f6-4061-9de0-3b56563b76e0" name="Changes" comment="57programs">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Java58.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Java59.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Java60.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Java61.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Java62.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Java63.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Java64.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Java65.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Java66.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Java67.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Java68.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Java69.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Java70.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Java71.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Java72.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Java57.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Java57.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,9 +64,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Java56">
-    <configuration name="Java52" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Java52" />
+  <component name="RunManager" selected="Application.Java72">
+    <configuration name="Java68" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Java68" />
       <module name="Java150" />
       <extension name="coverage">
         <pattern>
@@ -65,8 +78,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java53" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Java53" />
+    <configuration name="Java69" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Java69" />
       <module name="Java150" />
       <extension name="coverage">
         <pattern>
@@ -78,8 +91,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java54" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Java54" />
+    <configuration name="Java70" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Java70" />
       <module name="Java150" />
       <extension name="coverage">
         <pattern>
@@ -91,8 +104,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java55" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Java55" />
+    <configuration name="Java71" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Java71" />
       <module name="Java150" />
       <extension name="coverage">
         <pattern>
@@ -104,8 +117,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java56" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Java56" />
+    <configuration name="Java72" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Java72" />
       <module name="Java150" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Java56" />
-        <item itemvalue="Application.Java55" />
-        <item itemvalue="Application.Java54" />
-        <item itemvalue="Application.Java53" />
-        <item itemvalue="Application.Java52" />
+        <item itemvalue="Application.Java72" />
+        <item itemvalue="Application.Java71" />
+        <item itemvalue="Application.Java70" />
+        <item itemvalue="Application.Java69" />
+        <item itemvalue="Application.Java68" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672884012355</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="57programs">
+      <created>1673030537028</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673030537028</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -172,7 +192,8 @@
     <MESSAGE value="32 programs" />
     <MESSAGE value="44 programs" />
     <MESSAGE value="54 programs" />
-    <option name="LAST_COMMIT_MESSAGE" value="54 programs" />
+    <MESSAGE value="57programs" />
+    <option name="LAST_COMMIT_MESSAGE" value="57programs" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
